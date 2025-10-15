@@ -32,8 +32,7 @@ public class Factorial {
 
     public static void saveToFile(int number, long factorial) {
         try (PrintWriter writer = new PrintWriter("factorial.txt")) {
-            writer.println("Число: " + number);
-            writer.println("Факториал: " + factorial);
+            writer.println(factorial);
         } catch (FileNotFoundException e) {
             System.out.println("Ошибка файла");
         }
