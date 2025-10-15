@@ -1,4 +1,4 @@
-<img width="324" height="520" alt="image" src="https://github.com/user-attachments/assets/cb2f7f63-17dd-4cf8-9d98-13293bed552a" /># LR2-JAVA
+# LR2-JAVA
 
 Практическая работа по освоению базовых элементов языка Java: 
 переменные, 
